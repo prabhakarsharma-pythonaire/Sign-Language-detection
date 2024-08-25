@@ -30,3 +30,5 @@ pip install -r requirements.txt
 git clone https://github.com/prabhakarsharma-pythonaire/Sign-Language-detection.git
 cd <repository-directory>
 
+## Model link
+https://drive.google.com/drive/folders/1UI_vSFj3uVfK3qHiV1gxtaukS39fPLPh?usp=drive_link
